@@ -1,0 +1,17 @@
+{
+"blogs":[
+    {
+        "title":"My first blog",
+        "body" :"loeraskjdklasjdklasjdlkasjdklsajdklasjdlkasd",
+        "author": "mario",
+        "id":1
+    }, 
+    {
+    "title":"My first blog",
+        "body" :"loeraskjdklasjdklasjdlkasjdklsajdklasjdlkasd",
+        "author": "mario",
+        "id":2
+}
+
+]
+}
